@@ -1,0 +1,47 @@
+# Geotechnik — Osnabrück
+
+> Geotechnical engineering services in Osnabrück, Deutschland.
+
+## Services
+- [Anker](https://osnabruck.geotechnik.sbs/anker/)
+- [Atterberg Grenzen](https://osnabruck.geotechnik.sbs/atterberg-grenzen/)
+- [Aushub](https://osnabruck.geotechnik.sbs/aushub/)
+- [Aushub Monitoring](https://osnabruck.geotechnik.sbs/aushub-monitoring/)
+- [Bodenplatten](https://osnabruck.geotechnik.sbs/bodenplatten/)
+- [Bodenverbesserung](https://osnabruck.geotechnik.sbs/bodenverbesserung/)
+- [Cbr Strasse](https://osnabruck.geotechnik.sbs/cbr-strasse/)
+- [Cpt Versuch](https://osnabruck.geotechnik.sbs/cpt-versuch/)
+- [Flexibler Belag](https://osnabruck.geotechnik.sbs/flexibler-belag/)
+- [Fundamente](https://osnabruck.geotechnik.sbs/fundamente/)
+- [Geophysik](https://osnabruck.geotechnik.sbs/geophysik/)
+- [Grundungen](https://osnabruck.geotechnik.sbs/grundungen/)
+- [Hange](https://osnabruck.geotechnik.sbs/hange/)
+- [In Situ Durchlassigkeit](https://osnabruck.geotechnik.sbs/in-situ-durchlassigkeit/)
+- [Injektionen](https://osnabruck.geotechnik.sbs/injektionen/)
+- [Korngrossenanalyse](https://osnabruck.geotechnik.sbs/korngrossenanalyse/)
+- [Labor](https://osnabruck.geotechnik.sbs/labor/)
+- [Labor In Situ](https://osnabruck.geotechnik.sbs/labor-in-situ/)
+- [Masw](https://osnabruck.geotechnik.sbs/masw/)
+- [Plattendruckversuch](https://osnabruck.geotechnik.sbs/plattendruckversuch/)
+- [Ruttelverdichtung](https://osnabruck.geotechnik.sbs/ruttelverdichtung/)
+- [Sandkegel Dichte](https://osnabruck.geotechnik.sbs/sandkegel-dichte/)
+- [Schottersaulen](https://osnabruck.geotechnik.sbs/schottersaulen/)
+- [Seismik](https://osnabruck.geotechnik.sbs/seismik/)
+- [Seismische Mikrozonierung](https://osnabruck.geotechnik.sbs/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://osnabruck.geotechnik.sbs/seismische-refraktion/)
+- [Spt Bohrung](https://osnabruck.geotechnik.sbs/spt-bohrung/)
+- [Starrer Belag](https://osnabruck.geotechnik.sbs/starrer-belag/)
+- [Strassenbau](https://osnabruck.geotechnik.sbs/strassenbau/)
+- [Stutzmauern](https://osnabruck.geotechnik.sbs/stutzmauern/)
+- [Tiefe Aushube](https://osnabruck.geotechnik.sbs/tiefe-aushube/)
+- [Triaxialversuch](https://osnabruck.geotechnik.sbs/triaxialversuch/)
+- [Untersuchung](https://osnabruck.geotechnik.sbs/untersuchung/)
+- [Verflussigung](https://osnabruck.geotechnik.sbs/verflussigung/)
+- [Weichbodentunnel](https://osnabruck.geotechnik.sbs/weichbodentunnel/)
+
+## Contact
+- Website: https://osnabruck.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Osnabrück, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
